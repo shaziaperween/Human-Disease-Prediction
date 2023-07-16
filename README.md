@@ -10,6 +10,8 @@ For Diabetes
 For Breast Cancer Prediction
       Models - We used logistic Regression, Naive Bayes,K Nearest Neighbour(KNN), Random Forest and SVM. 
 
+ Streamlit Run Command -> streamlit run "C:\Users\hp\Desktop\Multiple disease prediction system\Multiple disease prediction.py"  i.e streamlit run followed by the path of your multiple disease prediction.py file
+
       
 
 
